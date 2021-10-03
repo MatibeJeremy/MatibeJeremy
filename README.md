@@ -1,7 +1,7 @@
 # Sasa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmob-psycho-100-gif-10551126&psig=AOvVaw1e-p64aoDck9awY2bglYhT&ust=1633332326551000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC0mZvbrfMCFQAAAAAdAAAAABAN">
+<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/GqAUlbRPmZwAAAAC/mob-psycho.gif">
 </div>
 
 </br>
