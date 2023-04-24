@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm a 24 years old Software Engineering & Artificial Intelligence Enthusiast from Kenya.
+### - I'm a 25 year old Software Engineering & Artificial Intelligence Enthusiast from Kenya.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
