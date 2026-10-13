@@ -1,25 +1,31 @@
 # Sasa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/GqAUlbRPmZwAAAAC/mob-psycho.gif">
+<img
+  width="700"
+  alt="Solo Leveling GIF"
+  src="DIRECT_GIF_URL"
+  style="max-width: 100%; height: auto;"
+/>
 </div>
 
 </br>
 </br>
 </br>
 
-
 # About ME 💬 :
 
-### - I'm a 25 year old Software Engineering & Artificial Intelligence Enthusiast from Kenya.
+### - I'm a 29 year old Software Engineering & Artificial Intelligence Enthusiast from Kenya.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
+
 - ✨ CLoud Computing
 - ✨ Generative Adversarial Networks
 
-### - Hobbies : 
+### - Hobbies :
+
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
@@ -30,9 +36,8 @@
 </br>
 </br>
 
-
-
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <p align="center">
@@ -55,16 +60,12 @@
 </br>
 </br>
 
-
-
 # Contact Me :
 
 <p>
  </br>
 
-
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
@@ -78,17 +79,15 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
  </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p align="center" >  
   <a href="https://github.com/matibejeremy/github-readme-stats"> 
@@ -96,4 +95,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
   </p>
 
-*************
+---
